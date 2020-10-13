@@ -1,0 +1,47 @@
+body {
+    text-align: left;
+    margin-left:3em;
+}
+
+h1 {
+    padding: 1em 0;
+}
+
+hr {
+    margin: 1.5em 0;
+}
+
+ul {
+    list-style: none;
+    margin-top: 3em;
+}
+
+input {
+    display: block;
+    margin: 2em 0;
+    padding: .7em;
+    width: 15rem;
+}
+
+button {
+    padding:1em;
+}
+
+img.deleteBtns {
+    cursor: pointer;
+}
+
+li{
+    margin: .7em 0;
+}
+
+h2 {
+    text-align: left;
+}
+
+p.err {
+    margin: 0 2em;
+    color: #e10a0a;
+    font-variant-caps: all-small-caps;
+}
+
