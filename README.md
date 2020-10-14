@@ -4,7 +4,7 @@
 * Allow users the ability to delete tasks. Each tasks in the list of all tasks should include a button that will remove the task using the API. You will need to pass the task description along with your student id. Once the task is deleted, the api will return an empty object as confirmation. Upon receiving the response, the task should be removed from the list of all tasks  
 * All of the taks on the page should be output when the page initially loads (using client side code). The api has a method to retrieve all tasks as json. You should retrieve all of all tasks and output all of them using client side dhtml.  
 --- 
-### Concepts uses:
+### Concepts used:
 * DHTML  
 * Event Handling  
 * AJAX  
